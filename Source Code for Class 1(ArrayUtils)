@@ -1,0 +1,18 @@
+using System;
+
+namespace Sum_Test
+{
+    class ArrayUtils
+    { public int sum(int [] array)
+        { 
+          int summ = 0;
+          foreach (int value in array)
+            { summ+= value;
+
+            }
+            
+          return summ;
+    }
+        
+    }
+}
