@@ -1,0 +1,10 @@
+C:\Users\tewbe\source\repos\Sum Test\bin\Debug\netcoreapp3.1\Sum Test.exe
+C:\Users\tewbe\source\repos\Sum Test\bin\Debug\netcoreapp3.1\Sum Test.deps.json
+C:\Users\tewbe\source\repos\Sum Test\bin\Debug\netcoreapp3.1\Sum Test.runtimeconfig.json
+C:\Users\tewbe\source\repos\Sum Test\bin\Debug\netcoreapp3.1\Sum Test.runtimeconfig.dev.json
+C:\Users\tewbe\source\repos\Sum Test\bin\Debug\netcoreapp3.1\Sum Test.dll
+C:\Users\tewbe\source\repos\Sum Test\bin\Debug\netcoreapp3.1\Sum Test.pdb
+C:\Users\tewbe\source\repos\Sum Test\obj\Debug\netcoreapp3.1\Sum Test.AssemblyInfoInputs.cache
+C:\Users\tewbe\source\repos\Sum Test\obj\Debug\netcoreapp3.1\Sum Test.AssemblyInfo.cs
+C:\Users\tewbe\source\repos\Sum Test\obj\Debug\netcoreapp3.1\Sum Test.dll
+C:\Users\tewbe\source\repos\Sum Test\obj\Debug\netcoreapp3.1\Sum Test.pdb
